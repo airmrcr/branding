@@ -1,22 +1,22 @@
 {
-  "name": "@neocotic/branding",
-  "description": "Branding assets and guidelines for neocotic",
-  "homepage": "https://github.com/neocotic/branding",
+  "name": "@airmrcr/branding",
+  "description": "Branding assets and guidelines for airmrcr",
+  "homepage": "https://github.com/airmrcr/branding",
   "bugs": {
-    "url": "https://github.com/neocotic/branding/issues"
+    "url": "https://github.com/airmrcr/branding/issues"
   },
   "author": {
-    "name": "neocotic",
-    "url": "https://github.com/neocotic"
+    "name": "airmrcr",
+    "url": "https://github.com/airmrcr"
   },
   "license": "UNLICENSED",
   "keywords": [
-    "neocotic",
+    "airmrcr",
     "branding"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/neocotic/branding.git"
+    "url": "https://github.com/airmrcr/branding.git"
   },
   "dependencies": {
     "brander": "^0.1.9"

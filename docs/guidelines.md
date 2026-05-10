@@ -1,8 +1,8 @@
 # Guidelines
 
-This document contains guidelines to be followed when representing the neocotic brand.
+This document contains guidelines to be followed when representing the airmrcr brand.
 
-1. [Fonts](https://github.com/neocotic/branding/tree/master/docs/guidelines.md#fonts)
+1. [Fonts](https://github.com/airmrcr/branding/tree/master/docs/guidelines.md#fonts)
 
 ## Fonts
 
@@ -18,4 +18,4 @@ For all assets, the Damion font should always be used.
 
 ---
 
-Copyright © neocotic
+Copyright © airmrcr

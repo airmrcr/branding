@@ -1,8 +1,8 @@
 # Colors
 
-This document contains the colors that are to be used when representing the neocotic brand.
+This document contains the colors that are to be used when representing the airmrcr brand.
 
-1. [Palette](https://github.com/neocotic/branding/tree/master/docs/colors.md#palette)
+1. [Palette](https://github.com/airmrcr/branding/tree/master/docs/colors.md#palette)
 
 ## Palette
 
@@ -17,4 +17,4 @@ The following colors are recommended to be used:
 
 ---
 
-Copyright © neocotic
+Copyright © airmrcr
