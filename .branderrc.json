@@ -174,7 +174,8 @@
           "sortBy": [ "<%= files[0].file.type %>", "asc" ],
           "titles": {
             "airmrcr-tile.svg": "Base",
-            "airmrcr-tile-invert.svg": "Base, Invert"
+            "airmrcr-tile-invert.svg": "Base, Invert",
+            "airmrcr-tile-mask.svg": "Base, Mask"
           }
         }
       ]
@@ -209,12 +210,22 @@
             {
               "name": "Primary",
               "format": "hex",
-              "value": "#eebf10"
+              "value": "#D1FFF5"
             },
             {
               "name": "Secondary",
               "format": "hex",
-              "value": "#29141e"
+              "value": "#001E18"
+            },
+            {
+              "name": "Tertiary",
+              "format": "hex",
+              "value": "#016A53"
+            },
+            {
+              "name": "Supplementary",
+              "format": "hex",
+              "value": "#8DB42D"
             }
           ],
           "columns": [
@@ -261,25 +272,15 @@
           ],
           "rows": [
             [
-              "Heading",
-              "[Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)",
-              "sans-serif"
-            ],
-            [
-              "Body",
-              "[Raleway](https://fonts.google.com/specimen/Raleway)",
-              "sans-serif"
-            ],
-            [
               "Monospace",
-              "[Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)",
+              "[Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display?preview.script=Latn)",
               "monospace"
             ]
           ]
         },
         {
           "type": "template",
-          "content": "For all assets, the Damion font should always be used."
+          "content": "For all assets, the Major Mono Display font should always be used."
         }
       ]
     }

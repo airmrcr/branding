@@ -10,11 +10,9 @@ The following fonts are recommended to be used when presenting text-based inform
 
 | Type | Primary Font | Fallback Fonts |
 | ---- | ------------ | -------------- |
-| Heading | [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans) | sans-serif |
-| Body | [Raleway](https://fonts.google.com/specimen/Raleway) | sans-serif |
-| Monospace | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) | monospace |
+| Monospace | [Major Mono Display](https://fonts.google.com/specimen/Major+Mono+Display?preview.script=Latn) | monospace |
 
-For all assets, the Damion font should always be used.
+For all assets, the Major Mono Display font should always be used.
 
 ---
 
