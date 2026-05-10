@@ -157,7 +157,9 @@
           "sortBy": [ "<%= files[0].file.type %>", "asc" ],
           "titles": {
             "airmrcr-logo.svg": "Base",
+            "airmrcr-logo-fill.svg": "Base, Fill",
             "airmrcr-logo-invert.svg": "Base, Invert",
+            "airmrcr-logo-invert-fill.svg": "Base, Invert, Fill",
             "airmrcr-logo-mask.svg": "Base, Mask"
           }
         },
